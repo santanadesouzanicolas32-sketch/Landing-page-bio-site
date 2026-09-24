@@ -3,7 +3,7 @@
 <p align="center">Landing page dos meus serviços: sites, landing pages e planilhas Excel</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/Landing-page-bio-site/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/servicos-web/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/Landing-page-bio-site.git
-cd Landing-page-bio-site
+git clone https://github.com/santanadesouzanicolas32-sketch/servicos-web.git
+cd servicos-web
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
